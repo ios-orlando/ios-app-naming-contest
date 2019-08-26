@@ -5,3 +5,4 @@ We're holding a naming contest for our new community iOS app. To participate, pl
 | GitHub Handle | Name Submission  |
 | ------------- | ---------------- |
 | @jcgohlke     | Awesome App Name |
+| @rlziii       | iOrlando         |
