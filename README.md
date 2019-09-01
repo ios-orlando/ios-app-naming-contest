@@ -6,3 +6,5 @@ We're holding a naming contest for our new community iOS app. To participate, pl
 | ------------- | ---------------- |
 | @jcgohlke     | Awesome App Name |
 | @rlziii       | iOrlando         |
+| @combobulated | Trevi            |
+| @combobulated | Town Square      |
