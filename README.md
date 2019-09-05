@@ -14,3 +14,4 @@ We're holding a naming contest for our new community iOS app. To participate, pl
 | @combobuated  | Flitter          |
 | @combobulated | 934              |
 | @combobulated | CheckIn          |
+| @combobulated | CheckIn          |
