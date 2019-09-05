@@ -6,6 +6,8 @@ We're holding a naming contest for our new community iOS app. To participate, pl
 | ------------- | ------------------------------ |
 | @jcgohlke     | Awesome App Name               |
 | @rlziii       | iOrlando                       |
+| @rlziii       | iCF                            |
+| @rlziii       | CFMeet                         |
 | @jamesodo     | CoreOrlando                    |
 | @jamesodo     | OrlandoKit                     |
 | @jamesodo     | Citrios                        |
@@ -22,3 +24,5 @@ We're holding a naming contest for our new community iOS app. To participate, pl
 | @combobulated | CheckIn                        |
 | @combobulated | OnTrask                        |
 | @combobulated | OnTrack                        |
+| @jamescasey7  | ORGroup                        |
+| @jamescasey7  | ORMeetup                       |
