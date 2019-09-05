@@ -6,6 +6,9 @@ We're holding a naming contest for our new community iOS app. To participate, pl
 | ------------- | ---------------- |
 | @jcgohlke     | Awesome App Name |
 | @rlziii       | iOrlando         |
+| @wiseguy16    | CitrusCocoa      |
+| @wiseguy16    | UIViewers        |
+| @wiseguy16    | OrlandoBundle    |
 | @cascadingdot | swift squad                    |
 | @cascadingdot | RDF: Reality Distortion Field  |
 | @combobulated | Trevi            |
