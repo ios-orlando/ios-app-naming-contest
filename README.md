@@ -26,3 +26,6 @@ We're holding a naming contest for our new community iOS app. To participate, pl
 | @combobulated | OnTrack                        |
 | @jamescasey7  | ORGroup                        |
 | @jamescasey7  | ORMeetup                       |
+| @RNWolter     | Swiftlando                     |
+| @RNWolter     | Orlando Unwrapped              |
+| @RNWolter     | O-Town Swiftites               |
